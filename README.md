@@ -40,9 +40,6 @@ To redeploy or update:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can add screenshots here later.
 
 ---
 
